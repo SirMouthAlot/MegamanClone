@@ -31,7 +31,7 @@ public class JumperMovement : MonoBehaviour
 
         if (Mathf.Abs(playerTrans.position.x - transform.position.x) < 22)
         {
-            MoveTowardsPlayer();
+            MoveForwards();
         }
 
         cycleIndex = Mathf.Clamp(cycleIndex, 1, 3);
@@ -68,17 +68,18 @@ public class JumperMovement : MonoBehaviour
         isGrounded = false;
     }
 
-    void MoveTowardsPlayer()
+    void MoveForwards()
     {
-        if (playerTrans.position.x - transform.position.x <= 0)
-        {
-            body.velocity = new Vector2(-horiztonalMoveSpeed, body.velocity.y);
-        }
-        else if (playerTrans.position.x - transform.position.x > 0)
-        {
-            body.velocity = new Vector2(horiztonalMoveSpeed, body.velocity.y);
-        }
+        //if (playerTrans.position.x - transform.position.x <= 0)
+        //{
+        //    body.velocity = new Vector2(-horiztonalMoveSpeed, body.velocity.y);
+        //}
+        //else if (playerTrans.position.x - transform.position.x > 0)
+        //{
+        //    body.velocity = new Vector2(horiztonalMoveSpeed, body.velocity.y);
+        //}
 
+        body.velocity = new Vector2(-horiztonalMoveSpeed, body.velocity.y);
     }
 
     void OnCollisionEnter2D(Collision2D collision)

@@ -30,12 +30,8 @@ public class AnimController : MonoBehaviour
         else
             anim.SetBool("InAir", true);
 
-        if (player.GetTookDamage())
-        {
-            anim.SetBool("TookDamage", true);
-            player.SetTookDamage(false);
-        }
-        else
-            anim.SetBool("TookDamage", false);
+        ///
+        //For some reason the take damage animation would not work if it was put in here so i had to put it in the Player script
+        ///
     }
 }

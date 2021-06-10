@@ -9,6 +9,7 @@ public class PlayerMovement : MonoBehaviour
 
     [SerializeField] float speed;
     [SerializeField] float jumpForce;
+    [SerializeField] float knockbackPower;
 
     bool isWalking;
     bool isGrounded;
@@ -46,7 +47,7 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.collider.tag == "Ground")
         {
@@ -56,6 +57,12 @@ public class PlayerMovement : MonoBehaviour
                     isGrounded = true;
             }
         }
+    }
+
+    public void Knockback()
+    {
+        GetComponent<Rigidbody2D>().AddForce(transform.up * knockbackPower, ForceMode2D.Impulse);
+        GetComponent<Rigidbody2D>().AddForce(-transform.right * knockbackPower, ForceMode2D.Impulse);
     }
 
     public float GetSpeed()

@@ -45,7 +45,7 @@ public class FrogShooting : MonoBehaviour
 
         bullet.GetComponent<Rigidbody2D>().velocity = (playerTrans.position - transform.position).normalized * bulletSpeed;
 
-        Destroy(bullet, 5);
+        Destroy(bullet, 3);
     }
 
     public bool GetIsShooting()

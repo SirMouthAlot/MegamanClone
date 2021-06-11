@@ -12,6 +12,8 @@ public class CameraMovement : MonoBehaviour
     int cameraView = 1;
 
     bool isChanging;
+    bool movingUp;
+    bool movingDown;
 
     ////For Lerping////
     Vector3 currentPos;
@@ -64,11 +66,23 @@ public class CameraMovement : MonoBehaviour
         {
             ChangeCameraView();
         }
-
         if (cameraView == 2 && playerObj.transform.position.y < 11)
+        {
+            movingDown = true;
+            movingUp = false;
+            ChangeCameraView();
+        }
+        if (cameraView == 2 && playerObj.transform.position.y >= 39)
+        {
+            movingUp = true;
+            movingDown = false;
+            ChangeCameraView();
+        }
+        if (cameraView == 3 && playerObj.transform.position.y < 39)
         {
             ChangeCameraView();
         }
+
 
         if (isChanging)
         {
@@ -83,10 +97,20 @@ public class CameraMovement : MonoBehaviour
             targetSize = 11;
             nextPos = new Vector3(58, 27, -10);
         }
-        else if (cameraView == 2)
+        else if (cameraView == 2 && movingDown)
         {
             targetSize = 7;
             nextPos = new Vector3(58, 2, -10);
+        }
+        else if (cameraView == 2 && movingUp)
+        {
+            targetSize = 8;
+            nextPos = new Vector3(50, 58, -10);
+        }
+        else if (cameraView == 3)
+        {
+            targetSize = 11;
+            nextPos = new Vector3(58, 27, -10);
         }
 
         totalTime = (nextPos - currentPos / speed).magnitude;
@@ -110,9 +134,17 @@ public class CameraMovement : MonoBehaviour
             {
                 cameraView = 2;
             }
-            else if (cameraView == 2)
+            else if (cameraView == 2 && movingDown)
             {
                 cameraView = 1;
+            }
+            else if (cameraView == 2 && movingUp)
+            {
+                cameraView = 3;
+            }
+            else if (cameraView == 3)
+            {
+                cameraView = 2;
             }
         }
 

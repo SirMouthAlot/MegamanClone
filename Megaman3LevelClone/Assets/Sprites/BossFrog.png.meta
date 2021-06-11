@@ -1,0 +1,4284 @@
+fileFormatVersion: 2
+guid: 6c368ed9065a85f4ca8d025380226483
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2819141309867435574
+    second: BossFrog_0
+  - first:
+      213: -6015936886088362835
+    second: BossFrog_1
+  - first:
+      213: -4543619912819220493
+    second: BossFrog_2
+  - first:
+      213: -968418090893033587
+    second: BossFrog_3
+  - first:
+      213: 6813323409946723725
+    second: BossFrog_4
+  - first:
+      213: 5230301677049129541
+    second: BossFrog_5
+  - first:
+      213: 3806538461780174762
+    second: BossFrog_6
+  - first:
+      213: 3688311414724292302
+    second: BossFrog_7
+  - first:
+      213: -2787941095679172560
+    second: BossFrog_8
+  - first:
+      213: 7382061737846683677
+    second: BossFrog_9
+  - first:
+      213: -3982404090709333838
+    second: BossFrog_10
+  - first:
+      213: 6287646699026636509
+    second: BossFrog_11
+  - first:
+      213: -5419993970862908569
+    second: BossFrog_12
+  - first:
+      213: 4974807911764772576
+    second: BossFrog_13
+  - first:
+      213: 310195068944445330
+    second: BossFrog_14
+  - first:
+      213: -3445896464307486095
+    second: BossFrog_15
+  - first:
+      213: -4146748827722983960
+    second: BossFrog_16
+  - first:
+      213: 5987931536193931781
+    second: BossFrog_17
+  - first:
+      213: -6893742667203616346
+    second: BossFrog_18
+  - first:
+      213: 8442748930844257143
+    second: BossFrog_19
+  - first:
+      213: 485297580930338935
+    second: BossFrog_20
+  - first:
+      213: 364371805630410208
+    second: BossFrog_21
+  - first:
+      213: 2453116272473116453
+    second: BossFrog_22
+  - first:
+      213: 9123407956454125484
+    second: BossFrog_23
+  - first:
+      213: 1072752207739012079
+    second: BossFrog_24
+  - first:
+      213: -3186929783651953130
+    second: BossFrog_25
+  - first:
+      213: 6548416317107376466
+    second: BossFrog_26
+  - first:
+      213: 8576231166821301757
+    second: BossFrog_27
+  - first:
+      213: 7300484981687806935
+    second: BossFrog_28
+  - first:
+      213: -2883955129579929823
+    second: BossFrog_29
+  - first:
+      213: -9001507199864879820
+    second: BossFrog_30
+  - first:
+      213: -7980422849147447269
+    second: BossFrog_31
+  - first:
+      213: 6623772636516403606
+    second: BossFrog_32
+  - first:
+      213: 4477154874025548286
+    second: BossFrog_33
+  - first:
+      213: -7523870310842880128
+    second: BossFrog_34
+  - first:
+      213: -2849808388929601557
+    second: BossFrog_35
+  - first:
+      213: -3403476655427521108
+    second: BossFrog_36
+  - first:
+      213: 355880825078529839
+    second: BossFrog_37
+  - first:
+      213: -5492364031215216551
+    second: BossFrog_38
+  - first:
+      213: 4102014210731973157
+    second: BossFrog_39
+  - first:
+      213: 4841069552626064253
+    second: BossFrog_40
+  - first:
+      213: -5848235251464411901
+    second: BossFrog_41
+  - first:
+      213: -3063626260329537822
+    second: BossFrog_42
+  - first:
+      213: 4100162948075325970
+    second: BossFrog_43
+  - first:
+      213: 8096764327830966839
+    second: BossFrog_44
+  - first:
+      213: 1860946739526448358
+    second: BossFrog_45
+  - first:
+      213: -163981110509126597
+    second: BossFrog_46
+  - first:
+      213: 8915885792602793789
+    second: BossFrog_47
+  - first:
+      213: 6257696411392038775
+    second: BossFrog_48
+  - first:
+      213: 8419794335272467425
+    second: BossFrog_49
+  - first:
+      213: -3220298358517330786
+    second: BossFrog_50
+  - first:
+      213: -179352330913870932
+    second: BossFrog_51
+  - first:
+      213: -3849317292349565002
+    second: BossFrog_52
+  - first:
+      213: 7922426871064873679
+    second: BossFrog_53
+  - first:
+      213: 8161482611436808561
+    second: BossFrog_54
+  - first:
+      213: 3232492111899055842
+    second: BossFrog_55
+  - first:
+      213: 9047387900335918033
+    second: BossFrog_56
+  - first:
+      213: -3290820161452345428
+    second: BossFrog_57
+  - first:
+      213: -60312011640924404
+    second: BossFrog_58
+  - first:
+      213: -5096242976187755795
+    second: BossFrog_59
+  - first:
+      213: -3875233026986678796
+    second: BossFrog_60
+  - first:
+      213: 8737603524388857258
+    second: BossFrog_61
+  - first:
+      213: 5691753798941113956
+    second: BossFrog_62
+  - first:
+      213: -4849882122724793677
+    second: BossFrog_63
+  - first:
+      213: 4942410877555248562
+    second: BossFrog_64
+  - first:
+      213: -7745196313385816093
+    second: BossFrog_65
+  - first:
+      213: -8162578613417982645
+    second: BossFrog_66
+  - first:
+      213: 8192805012525923936
+    second: BossFrog_67
+  - first:
+      213: -9137185315850789374
+    second: BossFrog_68
+  - first:
+      213: 3817390702639459948
+    second: BossFrog_69
+  - first:
+      213: 5329742337259328001
+    second: BossFrog_70
+  - first:
+      213: -372531112149518616
+    second: BossFrog_71
+  - first:
+      213: 1789779423147725238
+    second: BossFrog_72
+  - first:
+      213: -8900309997661273245
+    second: BossFrog_73
+  - first:
+      213: 6232309933006282825
+    second: BossFrog_74
+  - first:
+      213: -7059967434291929188
+    second: BossFrog_75
+  - first:
+      213: -4092621212975284840
+    second: BossFrog_76
+  - first:
+      213: -4530173027283701893
+    second: BossFrog_77
+  - first:
+      213: -5022681743130097626
+    second: BossFrog_78
+  - first:
+      213: -7648984241333508778
+    second: BossFrog_79
+  - first:
+      213: 5346912623325489730
+    second: BossFrog_80
+  - first:
+      213: 1123128361719935663
+    second: BossFrog_81
+  - first:
+      213: -1197318384767807528
+    second: BossFrog_82
+  - first:
+      213: 6596366794665872487
+    second: BossFrog_83
+  - first:
+      213: 4793540568155351592
+    second: BossFrog_84
+  - first:
+      213: 8425077858618457757
+    second: BossFrog_85
+  - first:
+      213: -8878460652225019111
+    second: BossFrog_86
+  - first:
+      213: -398094884793926377
+    second: BossFrog_87
+  - first:
+      213: -7563938604129654204
+    second: BossFrog_88
+  - first:
+      213: 74496645184666507
+    second: BossFrog_89
+  - first:
+      213: 6528728341706780784
+    second: BossFrog_90
+  - first:
+      213: 6881380043535528087
+    second: BossFrog_91
+  - first:
+      213: 9009113685180431706
+    second: BossFrog_92
+  - first:
+      213: 172323190186436598
+    second: BossFrog_93
+  - first:
+      213: -6858673262425740678
+    second: BossFrog_94
+  - first:
+      213: 6843743109789746584
+    second: BossFrog_95
+  - first:
+      213: -6589179814008785729
+    second: BossFrog_96
+  - first:
+      213: -4942748161638716726
+    second: BossFrog_97
+  - first:
+      213: -8198258084618978965
+    second: BossFrog_98
+  - first:
+      213: -5038644216190258174
+    second: BossFrog_99
+  - first:
+      213: -5202126579386750046
+    second: BossFrog_100
+  - first:
+      213: -1071341335139675502
+    second: BossFrog_101
+  - first:
+      213: -8475608198691482267
+    second: BossFrog_102
+  - first:
+      213: -2996284527251556043
+    second: BossFrog_103
+  - first:
+      213: -6321940790354863737
+    second: BossBullet1
+  - first:
+      213: 5830194103219952669
+    second: BossBullet2
+  - first:
+      213: -6930725181522957596
+    second: BossBullet3
+  - first:
+      213: 3134613915359057763
+    second: BossBullet4
+  - first:
+      213: 3136176578857370367
+    second: BossFrog_108
+  - first:
+      213: 7353062647414730974
+    second: BossFrog_109
+  - first:
+      213: 4914378798172791367
+    second: BossFrog_110
+  - first:
+      213: -9115197570072795871
+    second: BossFrog_111
+  - first:
+      213: -1155596020971420359
+    second: BossFrog_112
+  - first:
+      213: -6145355593318751929
+    second: BossFrog_113
+  - first:
+      213: 7281971694839171267
+    second: BossFrog_114
+  - first:
+      213: -9211455910490847314
+    second: BossFrog_115
+  - first:
+      213: -8731174745260242243
+    second: BossFrog_116
+  - first:
+      213: 5359732990515209113
+    second: BossFrog_117
+  - first:
+      213: -989886710123001164
+    second: BossFrog_118
+  - first:
+      213: -5158039295789980938
+    second: BossFrog_119
+  - first:
+      213: 5193192995456724883
+    second: BossFrog_120
+  - first:
+      213: 192903504317968619
+    second: BossFrog_121
+  - first:
+      213: -2328644271996795285
+    second: BossFrog_122
+  - first:
+      213: -3517713515266130533
+    second: BossFrog_123
+  - first:
+      213: -5420869404007944770
+    second: BossFrog_124
+  - first:
+      213: 737493061092145749
+    second: BossFrog_125
+  - first:
+      213: -3914622230335446536
+    second: BossFrog_126
+  - first:
+      213: -2666313787596667450
+    second: BossFrog_127
+  - first:
+      213: -8962118053180450312
+    second: BossFrog_128
+  - first:
+      213: 7521016639868803480
+    second: BossFrog_129
+  - first:
+      213: 5271933610339046987
+    second: BossFrog_130
+  - first:
+      213: -4050295320945424768
+    second: BossFrog_131
+  - first:
+      213: 567336936592579147
+    second: BossFrog_132
+  - first:
+      213: 293539124411814062
+    second: BossFrog_133
+  - first:
+      213: -5123507091094920081
+    second: BossFrog_134
+  - first:
+      213: -2804058891801732794
+    second: BossFrog_135
+  - first:
+      213: 6704718962352622338
+    second: BossFrog_136
+  - first:
+      213: 8046026988393350427
+    second: BossFrog_137
+  - first:
+      213: 5499765730573983670
+    second: BossFrog_138
+  - first:
+      213: 7159297614687373770
+    second: BossFrog_139
+  - first:
+      213: 8356611351468179070
+    second: BossFrog_140
+  - first:
+      213: -8320703843228478510
+    second: BossFrog_141
+  - first:
+      213: 3934758749940323568
+    second: BossFrog_142
+  - first:
+      213: -5446619494502082283
+    second: BossFrog_143
+  - first:
+      213: 6981258050677361026
+    second: BossFrog_144
+  - first:
+      213: -2377936697760514944
+    second: BossFrog_145
+  - first:
+      213: -5231276133470739899
+    second: BossFrog_146
+  - first:
+      213: -6232495442046248295
+    second: BossFrog_147
+  - first:
+      213: -6620150263374819811
+    second: BossFrog_148
+  - first:
+      213: 7890933735776414450
+    second: BossFrog_149
+  - first:
+      213: -3412429217237729317
+    second: BossFrog_150
+  - first:
+      213: 6243268057332517200
+    second: BossFrog_151
+  - first:
+      213: 3707635484434255185
+    second: BossFrog_152
+  - first:
+      213: -6352606857241419783
+    second: BossFrog_153
+  - first:
+      213: -4412697434449160297
+    second: BossFrog_154
+  - first:
+      213: 907274011851557045
+    second: BossFrog_155
+  - first:
+      213: -1002266295474512833
+    second: BossFrog_156
+  - first:
+      213: 1876847770739148753
+    second: BossFrog_157
+  - first:
+      213: 5795357082879938853
+    second: BossFrog_158
+  - first:
+      213: -5972724937942303139
+    second: BossFrog_159
+  - first:
+      213: 8263352087805504980
+    second: BossFrog_160
+  - first:
+      213: 1334980560279831397
+    second: BossFrog_161
+  - first:
+      213: 9221932358319861828
+    second: BossFrog_162
+  - first:
+      213: -1085296949128726669
+    second: BossFrog_163
+  - first:
+      213: -967319602088124731
+    second: BossFrog_164
+  - first:
+      213: -7249826277426037512
+    second: BossFrog_165
+  - first:
+      213: -3878998059848582584
+    second: BossFrog_166
+  - first:
+      213: 2119167471503493621
+    second: BossFrog_167
+  - first:
+      213: 3457311978760571951
+    second: BossFrog_168
+  - first:
+      213: 7759126093628214572
+    second: BossFrog_169
+  - first:
+      213: -926232633253441263
+    second: BossFrog_170
+  - first:
+      213: 5835698203520857465
+    second: BossFrog_171
+  - first:
+      213: -3058976009207714558
+    second: BossFrog_172
+  - first:
+      213: 759425392089194609
+    second: BossFrog_173
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossFrog_0
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 809
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9d8b54ae560e8d0800000000000000
+      internalID: -2819141309867435574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 833
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da49881a649138ca0800000000000000
+      internalID: -6015936886088362835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_2
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 809
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffd40e23c1d1f0c0800000000000000
+      internalID: -4543619912819220493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_3
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 809
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f324290ec7f82f0800000000000000
+      internalID: -968418090893033587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_4
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 810
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d854ab5fa89cd8e50800000000000000
+      internalID: 6813323409946723725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 825
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54aa4a8f9a3c59840800000000000000
+      internalID: 5230301677049129541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 809
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7e446209a83d430800000000000000
+      internalID: 3806538461780174762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_7
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 809
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecee8afa0b38f2330800000000000000
+      internalID: 3688311414724292302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 809
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0306459385e3f49d0800000000000000
+      internalID: -2787941095679172560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_9
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 809
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18ba5ae90a527660800000000000000
+      internalID: 7382061737846683677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_10
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 819
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b825354498abb8c0800000000000000
+      internalID: -3982404090709333838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_11
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 809
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dded3a00c55324750800000000000000
+      internalID: 6287646699026636509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_12
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 809
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b15f9233058c4b0800000000000000
+      internalID: -5419993970862908569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 743
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6ca8620711a0540800000000000000
+      internalID: 4974807911764772576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_14
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 743
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fe28f85c80e4400800000000000000
+      internalID: 310195068944445330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 743
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1728d204c67bd20d0800000000000000
+      internalID: -3445896464307486095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_16
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 743
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5ddce59e9c376c0800000000000000
+      internalID: -4146748827722983960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_17
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 743
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ac23ab108691350800000000000000
+      internalID: 5987931536193931781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_18
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 744
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1ef5c91918450a0800000000000000
+      internalID: -6893742667203616346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_19
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 728
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77be7c6cb6baa2570800000000000000
+      internalID: 8442748930844257143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 656
+        width: 14
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77095b1249f1cb600800000000000000
+      internalID: 485297580930338935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_21
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 691
+        width: 64
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eda4c80a328e0500800000000000000
+      internalID: 364371805630410208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_22
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 682
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f8d7da0483b0220800000000000000
+      internalID: 2453116272473116453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 674
+        width: 77
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafab61d23bdc9e70800000000000000
+      internalID: 9123407956454125484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_24
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 674
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3cc42037e23ee00800000000000000
+      internalID: 1072752207739012079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_25
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 673
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61610513f30c5c3d0800000000000000
+      internalID: -3186929783651953130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_26
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 674
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2519e8602f5a0ea50800000000000000
+      internalID: 6548416317107376466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_27
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 671
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd7402bec4e40770800000000000000
+      internalID: 8576231166821301757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_28
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 646
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db63954968805560800000000000000
+      internalID: 7300484981687806935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_29
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 641
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ff839e6122af7d0800000000000000
+      internalID: -2883955129579929823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_30
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 634
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435ceecc4e8341380800000000000000
+      internalID: -9001507199864879820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_31
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 598
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18d72763b7df3190800000000000000
+      internalID: -7980422849147447269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_32
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 599
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69943806e1e5ceb50800000000000000
+      internalID: 6623772636516403606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_33
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 598
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef993be03ac022e30800000000000000
+      internalID: 4477154874025548286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_34
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 599
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f2a12c0d7d59790800000000000000
+      internalID: -7523870310842880128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_35
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 598
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef3ce38e527378d0800000000000000
+      internalID: -2849808388929601557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_36
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 598
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca578e7a30c64c0d0800000000000000
+      internalID: -3403476655427521108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_37
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 614
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fbd2199b750f400800000000000000
+      internalID: 355880825078529839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_38
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 596
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958d84e630437c3b0800000000000000
+      internalID: -5492364031215216551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_39
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 598
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a9846f0384de830800000000000000
+      internalID: 4102014210731973157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_40
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 601
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b5c39eb1fee2340800000000000000
+      internalID: 4841069552626064253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_41
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 602
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305eb892605e6dea0800000000000000
+      internalID: -5848235251464411901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_42
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 601
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eedf74e520db75d0800000000000000
+      internalID: -3063626260329537822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_43
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 602
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a8f394a74b6e830800000000000000
+      internalID: 4100162948075325970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_44
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 603
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7325b66f14c7d5070800000000000000
+      internalID: 8096764327830966839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_45
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 603
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4356b233963d910800000000000000
+      internalID: 1860946739526448358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_46
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 602
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cba3e7c0c69bdf0800000000000000
+      internalID: -163981110509126597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_47
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 585
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37aa06d3e69bbb70800000000000000
+      internalID: 8915885792602793789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_48
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 585
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77752414bbdc7d650800000000000000
+      internalID: 6257696411392038775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_49
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 585
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebf2c3865e19d470800000000000000
+      internalID: 8419794335272467425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_50
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 585
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c0dcd64b33f43d0800000000000000
+      internalID: -3220298358517330786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_51
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 583
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab8d3a5100d28df0800000000000000
+      internalID: -179352330913870932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_52
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 583
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b75cb1315a749ac0800000000000000
+      internalID: -3849317292349565002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_53
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 583
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcac4d0b34d12fd60800000000000000
+      internalID: 7922426871064873679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_54
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 505
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179e7379139634170800000000000000
+      internalID: 8161482611436808561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_55
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 505
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6def4037e1cdc20800000000000000
+      internalID: 3232492111899055842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_56
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 505
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db80b83c57ce8d70800000000000000
+      internalID: 9047387900335918033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_57
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 505
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca770f8af78a452d0800000000000000
+      internalID: -3290820161452345428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_58
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 549
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0714728b8ab92ff0800000000000000
+      internalID: -60312011640924404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_59
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 549
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2df33a3028649b0800000000000000
+      internalID: -5096242976187755795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_60
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 550
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5e8940818683ac0800000000000000
+      internalID: -3875233026986678796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_61
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 550
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa526639c14324970800000000000000
+      internalID: 8737603524388857258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_62
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 549
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e7dd68ceb2dfe40800000000000000
+      internalID: 5691753798941113956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_63
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 550
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2a878b7e1c1bcb0800000000000000
+      internalID: -4849882122724793677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_64
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 550
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd05b2d188f69440800000000000000
+      internalID: 4942410877555248562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_65
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 549
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef29f02df8838490800000000000000
+      internalID: -7745196313385816093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_66
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 504
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4545009ff1b8be80800000000000000
+      internalID: -8162578613417982645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_67
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 504
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eb5a560c0b2b170800000000000000
+      internalID: 8192805012525923936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_68
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 504
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e5cc9bd52323180800000000000000
+      internalID: -9137185315850789374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_69
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 504
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e24bf5e981af430800000000000000
+      internalID: 3817390702639459948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_70
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 504
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102d3b4ea6c07f940800000000000000
+      internalID: 5329742337259328001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_71
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 504
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6fb806de084daf0800000000000000
+      internalID: -372531112149518616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_72
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 504
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1160717e296d810800000000000000
+      internalID: 1789779423147725238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_73
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 437
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363ca86863fbb7480800000000000000
+      internalID: -8900309997661273245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_74
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 436
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9406af62ddc9d7650800000000000000
+      internalID: 6232309933006282825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_75
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 436
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f14391605f50e90800000000000000
+      internalID: -7059967434291929188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_76
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 436
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d3160c0b61437c0800000000000000
+      internalID: -4092621212975284840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_77
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 437
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fe2b132a79121c0800000000000000
+      internalID: -4530173027283701893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_78
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 438
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62804e0e099db4ab0800000000000000
+      internalID: -5022681743130097626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_79
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 377
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65561cacb5959d590800000000000000
+      internalID: -7648984241333508778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_80
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 405
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a2e56a3bc043a40800000000000000
+      internalID: 5346912623325489730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_81
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 402
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2bb7d5b47269f00800000000000000
+      internalID: 1123128361719935663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 394
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfced0d545426fe0800000000000000
+      internalID: -1197318384767807528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_83
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 394
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ccd3496a00b8b50800000000000000
+      internalID: 6596366794665872487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_84
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 394
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ae25ddfb3168240800000000000000
+      internalID: 4793540568155351592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_85
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 375
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e36f7aca3ebe470800000000000000
+      internalID: 8425077858618457757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_86
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 377
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91348dfa31f59c480800000000000000
+      internalID: -8878460652225019111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_87
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 378
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d35fcbfcea97af0800000000000000
+      internalID: -398094884793926377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_88
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 367
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44aecfd3aed770790800000000000000
+      internalID: -7563938604129654204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_89
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 400
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bb039dd4aa80100800000000000000
+      internalID: 74496645184666507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_90
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 397
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070357a06d3ba9a50800000000000000
+      internalID: 6528728341706780784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_91
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 372
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790b563c0b29f7f50800000000000000
+      internalID: 6881380043535528087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_92
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 400
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d3a421a2dc60d70800000000000000
+      internalID: 9009113685180431706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_93
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 397
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7ef994707346200800000000000000
+      internalID: 172323190186436598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_94
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 360
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ae4a2b10911d0a0800000000000000
+      internalID: -6858673262425740678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_95
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 381
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8958b01491cd9fe50800000000000000
+      internalID: 6843743109789746584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_96
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 382
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4f4d0ced78e84a0800000000000000
+      internalID: -6589179814008785729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_97
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 378
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca2f4b1cb4d76bb0800000000000000
+      internalID: -4942748161638716726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_98
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 354
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69bf4155bfe93e80800000000000000
+      internalID: -8198258084618978965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_99
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 360
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204376008c3231ab0800000000000000
+      internalID: -5038644216190258174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_100
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 355
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abe80720755ec7b0800000000000000
+      internalID: -5202126579386750046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_101
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 376
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2929ecd5bb4d121f0800000000000000
+      internalID: -1071341335139675502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_102
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 355
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5651b9dbf37906a80800000000000000
+      internalID: -8475608198691482267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_103
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 376
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539fb23f81f0b66d0800000000000000
+      internalID: -2996284527251556043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossBullet1
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 364
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78998d3a854f348a0800000000000000
+      internalID: -6321940790354863737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossBullet2
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c900ea5a209e050800000000000000
+      internalID: 5830194103219952669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossBullet3
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 363
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea287ffa2e11df90800000000000000
+      internalID: -6930725181522957596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossBullet4
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 364
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36719f48fb2608b20800000000000000
+      internalID: 3134613915359057763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_108
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 366
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff281b77bffe58b20800000000000000
+      internalID: 3136176578857370367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_109
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 349
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0395605835b0660800000000000000
+      internalID: 7353062647414730974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_110
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 353
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742ecccba71633440800000000000000
+      internalID: 4914378798172791367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_111
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 349
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125ae4aba10508180800000000000000
+      internalID: -9115197570072795871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_112
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 340
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935c422aa8f76ffe0800000000000000
+      internalID: -1155596020971420359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_113
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 339
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741a6c9b5af47baa0800000000000000
+      internalID: -6145355593318751929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_114
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 245
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c88657cca2ce0560800000000000000
+      internalID: 7281971694839171267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_115
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 245
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7450f57a55a2080800000000000000
+      internalID: -9211455910490847314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_116
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 245
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbac6e434d2a4d680800000000000000
+      internalID: -8731174745260242243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_117
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 245
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993e99ef1c8916a40800000000000000
+      internalID: 5359732990515209113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_118
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 245
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba0d3328473342f0800000000000000
+      internalID: -989886710123001164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 245
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2aee4c696fa68b0800000000000000
+      internalID: -5158039295789980938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_120
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 245
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fae30c38de11840800000000000000
+      internalID: 5193192995456724883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_121
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 245
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0fcc217b45da200800000000000000
+      internalID: 192903504317968619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_122
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 268
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66026f4f5efeafd0800000000000000
+      internalID: -2328644271996795285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_123
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 268
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9db8fc02329e2fc0800000000000000
+      internalID: -3517713515266130533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_124
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 218
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebda2508ff335c4b0800000000000000
+      internalID: -5420869404007944770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_125
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 218
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a76ba180a1c3a00800000000000000
+      internalID: 737493061092145749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_126
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 218
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1220372d77ca9c0800000000000000
+      internalID: -3914622230335446536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_127
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 142
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c50396acb95ffad0800000000000000
+      internalID: -2666313787596667450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_128
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 151
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9501d2d1920a380800000000000000
+      internalID: -8962118053180450312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_129
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 174
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8999e2139c4006860800000000000000
+      internalID: 7521016639868803480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_130
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 151
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4693bbcfaba92940800000000000000
+      internalID: 5271933610339046987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_131
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 174
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0860f9f6dd57ac7c0800000000000000
+      internalID: -4050295320945424768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_132
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 151
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a1f8d10f59fd700800000000000000
+      internalID: 567336936592579147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_133
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 174
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0de36474cd21400800000000000000
+      internalID: 293539124411814062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_134
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 190
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64a7173275a5e8b0800000000000000
+      internalID: -5123507091094920081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_135
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 196
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649d1e06b4bf519d0800000000000000
+      internalID: -2804058891801732794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_136
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 196
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b8ad58f52fb0d50800000000000000
+      internalID: 6704718962352622338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_137
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 196
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1544609aea39af60800000000000000
+      internalID: 8046026988393350427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_138
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 196
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf9abefac7135c40800000000000000
+      internalID: 5499765730573983670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_139
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 182
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac90ebcbf3fea5360800000000000000
+      internalID: 7159297614687373770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_140
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 151
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ef14abfb5a8f370800000000000000
+      internalID: 8356611351468179070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_141
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 151
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3932780fbe68c80800000000000000
+      internalID: -8320703843228478510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_142
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 151
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f49d0f5c321b9630800000000000000
+      internalID: 3934758749940323568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_143
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 182
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5195c7b5d68b964b0800000000000000
+      internalID: -5446619494502082283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_144
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 182
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289c5f3753962e060800000000000000
+      internalID: 6981258050677361026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_145
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 156
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c7e971c2fdffed0800000000000000
+      internalID: -2377936697760514944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_146
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 156
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5426f76b216c667b0800000000000000
+      internalID: -5231276133470739899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_147
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 156
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a9798aa6ab189a0800000000000000
+      internalID: -6232495442046248295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_148
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 164
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ec5d719608024a0800000000000000
+      internalID: -6620150263374819811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_149
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 161
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa691bbc6a328d60800000000000000
+      internalID: 7890933735776414450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_150
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 164
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf716de4bd94a0d0800000000000000
+      internalID: -3412429217237729317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_151
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 151
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05909da483b84a650800000000000000
+      internalID: 6243268057332517200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_152
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 151
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d465644da247330800000000000000
+      internalID: 3707635484434255185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_153
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 151
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff1a6c88b107d7a0800000000000000
+      internalID: -6352606857241419783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_154
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 139
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79751661013f2c2c0800000000000000
+      internalID: -4412697434449160297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_155
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 138
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b80b5628e8479c00800000000000000
+      internalID: 907274011851557045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_156
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 138
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c15ef4d1c3712f0800000000000000
+      internalID: -1002266295474512833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_157
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 69
+        width: 94
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d704608a17eb0a10800000000000000
+      internalID: 1876847770739148753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_158
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 28
+        width: 87
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5215a9fcf8e3d6050800000000000000
+      internalID: 5795357082879938853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_159
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 60
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ef4d4505e9c1da0800000000000000
+      internalID: -5972724937942303139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_160
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 60
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd21a751f25da270800000000000000
+      internalID: 8263352087805504980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_161
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 49
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563088d1fbdc68210800000000000000
+      internalID: 1334980560279831397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_162
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440f558be92eaff70800000000000000
+      internalID: 9221932358319861828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_163
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 5
+        width: 97
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377fd57cc2040f0f0800000000000000
+      internalID: -1085296949128726669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_164
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 16
+        width: 97
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ced34d62f36392f0800000000000000
+      internalID: -967319602088124731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_165
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 5
+        width: 97
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc7ab27961736b90800000000000000
+      internalID: -7249826277426037512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_166
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 16
+        width: 97
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84abb4ef0d70b2ac0800000000000000
+      internalID: -3878998059848582584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_167
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 27
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f94786669bc86d10800000000000000
+      internalID: 2119167471503493621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_168
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 38
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c0ab35de6daff20800000000000000
+      internalID: 3457311978760571951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_169
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 36
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d8c229214fdab60800000000000000
+      internalID: 7759126093628214572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_170
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 36
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111dd83d35c5523f0800000000000000
+      internalID: -926232633253441263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_171
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 28
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975fe35e8909cf050800000000000000
+      internalID: 5835698203520857465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_172
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 15
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d6bbad6855c85d0800000000000000
+      internalID: -3058976009207714558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFrog_173
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 15
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17063e8de550a8a00800000000000000
+      internalID: 759425392089194609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

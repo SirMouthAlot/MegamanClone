@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FrogShooting : MonoBehaviour
+public class BossShooting : MonoBehaviour
 {
     [SerializeField] Transform playerTrans;
     [SerializeField] GameObject bulletPrefab;
@@ -15,6 +15,8 @@ public class FrogShooting : MonoBehaviour
 
     bool initialDelayApplied;
 
+    int cycleIndex = 1;
+
     void Start()
     {
         renderer = GetComponent<Renderer>();
@@ -25,26 +27,23 @@ public class FrogShooting : MonoBehaviour
     {
         if (renderer.isVisible && !initialDelayApplied)
         {
-            timeToNextShot = Time.realtimeSinceStartup + 0.5f;
+            timeToNextShot = Time.realtimeSinceStartup + 2f;
             initialDelayApplied = true;
         }
 
-        if (CanShoot())
-        {
-            isShooting = true;
-            Shoot();
-        }
+        ShootCycle();
     }
 
     bool CanShoot()
     {
         if (timeToNextShot < Time.realtimeSinceStartup && renderer.isVisible)
         {
-            timeToNextShot = Time.realtimeSinceStartup + 3f;
             return true;
         }
         else
+        {
             return false;
+        }
     }
 
     void Shoot()
@@ -54,6 +53,36 @@ public class FrogShooting : MonoBehaviour
         bullet.GetComponent<Rigidbody2D>().velocity = (playerTrans.position - transform.position).normalized * bulletSpeed;
 
         Destroy(bullet, 3);
+    }
+
+    void ShortDelay()
+    {
+        timeToNextShot = Time.realtimeSinceStartup + 0.2f;
+    }
+
+    void LongDelay()
+    {
+        timeToNextShot = Time.realtimeSinceStartup + 3f;
+    }
+
+    void ShootCycle()
+    {
+        if (CanShoot())
+        {
+            isShooting = true;
+            Shoot();
+
+            if (cycleIndex == 1 || cycleIndex == 2)
+            {
+                ShortDelay();
+                cycleIndex++;
+            }
+            else if (cycleIndex == 3)
+            {
+                LongDelay();
+                cycleIndex = 1;
+            }
+        }
     }
 
     public bool GetIsShooting()

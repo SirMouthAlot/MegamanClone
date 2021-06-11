@@ -21,14 +21,31 @@ public class AnimController : MonoBehaviour
     void Update()
     {
         if (playerMove.GetIsWalking())
+        { 
             anim.SetBool("Walking", true);
+        }
         else
+        {
             anim.SetBool("Walking", false);
+        }
 
         if (playerMove.GetIsGrounded())
+        {
             anim.SetBool("InAir", false);
+        }
         else
+        {
             anim.SetBool("InAir", true);
+        }
+
+        if (playerMove.GetIsClimbing())
+        {
+            anim.SetBool("Climbing", true);
+        }
+        else
+        {
+            anim.SetBool("Climbing", false);
+        }
 
         ///
         //For some reason the take damage animation would not work if it was put in here so i had to put it in the Player script

@@ -13,6 +13,8 @@ public class FrogShooting : MonoBehaviour
     float timeToNextShot = 0;
     bool isShooting;
 
+    bool initialDelayApplied;
+
     void Start()
     {
         renderer = GetComponent<Renderer>();
@@ -21,6 +23,12 @@ public class FrogShooting : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (renderer.isVisible && !initialDelayApplied)
+        {
+            timeToNextShot = Time.realtimeSinceStartup + 1.5f;
+            initialDelayApplied = true;
+        }
+
         if (CanShoot())
         {
             isShooting = true;

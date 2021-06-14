@@ -5,9 +5,11 @@ using UnityEngine.UI;
 
 public class HealthBar : MonoBehaviour
 {
+    [SerializeField] Image mask;
     [SerializeField] GameObject player;
-
     Player playerProperties;
+
+    float max = 28;
 
     // Start is called before the first frame update
     void Start()
@@ -18,6 +20,10 @@ public class HealthBar : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        GetComponent<Slider>().value = playerProperties.GetHealth();
+        float fillAmount = (float)playerProperties.GetHealth() / (float)max;
+
+        mask.fillAmount = fillAmount;
+
+       // GetComponent<Slider>().value = playerProperties.GetHealth();
     }
 }

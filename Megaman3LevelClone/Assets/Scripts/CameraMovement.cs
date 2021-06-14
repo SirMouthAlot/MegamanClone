@@ -46,7 +46,6 @@ public class CameraMovement : MonoBehaviour
         {
             trans.position += transform.right * Time.deltaTime * player.GetSpeed();
         }
-
         if (playerObj.transform.position.x - trans.position.x < -3)
         {
             trans.position -= transform.right * Time.deltaTime * player.GetSpeed();
@@ -60,6 +59,10 @@ public class CameraMovement : MonoBehaviour
         else if (trans.position.y == 27)
         {
             cameraView = 2;
+        }
+        else if (trans.position.y == 58)
+        {
+            cameraView = 3;
         }
 
         if (cameraView == 1 && playerObj.transform.position.y >= 11)

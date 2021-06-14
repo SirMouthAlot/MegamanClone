@@ -23,7 +23,5 @@ public class HealthBar : MonoBehaviour
         float fillAmount = (float)playerProperties.GetHealth() / (float)max;
 
         mask.fillAmount = fillAmount;
-
-       // GetComponent<Slider>().value = playerProperties.GetHealth();
     }
 }

@@ -154,4 +154,9 @@ public class CameraMovement : MonoBehaviour
         trans.position = Vector3.Lerp(currentPos, nextPos, t);
         GetComponent<Camera>().orthographicSize = Mathf.Lerp(currentSize, targetSize, t);
     }
+
+    public int GetCameraView()
+    {
+        return cameraView;
+    }
 }
